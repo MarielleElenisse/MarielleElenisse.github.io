@@ -1,0 +1,139 @@
+body {
+	background-color: #EDCC96;
+}
+h3 {
+	font-family: helvetica;
+	color: #ede9da;
+	position: absolute;
+	left: 60px;
+	top: 4px;
+}
+p {
+	font-family: Lucida Grande;
+	color: #313638;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+h2 {
+	font-family: Lucida Grande;
+	color: #313638;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+h1 {
+
+}
+.img2 {
+	padding: 20px;
+}
+	/*Header*/
+.head1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 60px;
+    z-index: 1;
+	background-color: #048A81;
+	border-bottom: solid #4C5557 2px;
+}
+.content1 {
+    position: absolute;
+    top: 5px;
+    left: 90px;
+    z-index: 2;
+    text-align: center;
+}
+.icon1 {
+	position: absolute;
+	top: 7px;
+    left: 5px;
+    width: 50px;
+}
+.icon2 {
+	padding: 20px;
+	width: 90px;
+	float: left;
+}
+	/*Body*/
+.body {
+	margin-top: 65px;
+	margin-bottom: 8px;
+	float: left;
+	background-color: #F0D4A8;
+	width: 100%;
+	border: solid #4C5557 2px;
+}
+.title {
+	float: left;
+	font-family: helvetica;
+	color: #313638;
+	padding-left: 10px;
+
+}
+.lmao {
+	clear: both;
+	float: left;
+}
+	/*Footer*/
+.footer {
+	clear: both;
+	position: relative;
+    height: 90px;
+    margin-top: -200px;
+    z-index: 1;
+	background-color: #048A81;
+	border: solid #4C5557 2px;
+}
+.navlink1 {
+	text-decoration: none;
+	font-family: helvetica;
+	color: #ede9da;
+	font-weight: bold;
+	padding: 10px;
+	float: left;
+}
+.navlink1 a {
+	text-decoration: none;
+	color: #ede9da;
+	font-weight: bold;
+	float: left;
+}
+.navlink1 a:hover {
+	color: black;
+	transition: 0.3s
+}
+.navlink2 {
+	text-decoration: none;
+	font-family: helvetica;
+	color: #ede9da;
+	font-weight: bold;
+	padding: 10px 10px 10px 0px;
+	float: right;
+}
+.navlink2 a {
+	text-decoration: none;
+	color: #ede9da;
+	font-weight: bold;
+	float: right;
+}
+.navlink2 a:hover {
+	color: black;
+	transition: 0.3s
+}
+.creds {
+	clear: both;
+	text-align: center;
+	color: #ede9da;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 5px;
+}
+.creds a {
+	text-decoration: none;
+	color: #ede9da;
+}
+.creds a:hover { 
+	color: black;
+	transition: 0.3s;
+}
